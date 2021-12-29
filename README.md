@@ -3,7 +3,7 @@
 This code is meant for me to practice coding interview questions with Python.
 I am supposed to write a function that takes in a non-empty
 
-## Running Lab 1
+## Running The Project
 **NOTE: Your IDE may configure the project implicitly as a module. BE SURE TO 
 RUN STEP 4 BELOW BEFORE SUBMITTING LABS** 
 
@@ -20,11 +20,7 @@ The program's output will be displated in the output.txt file.
 ### Lab1 Usage:
 
 ```commandline
-usage: python -m Module1 [-h] infile outfile
-
-positional arguments:
-  infile     Input File Pathname
-  outfile    Output File Pathname
+usage: python -m Mod1 [-h] 
 
 optional arguments:
   -h, --help  show a help message and exits the program
@@ -44,12 +40,12 @@ Usage statements are very formalized
 
 The following was my project's package layout:
 
-* AValdezLab1.Lab1/: `The parent or "root" folder containing all of the 
+* TwoNumberSum.Mod1/: `The parent or "root" folder containing all of the 
   projecs files`
     * README.md:
       `The README files that describes my programs and the nuances needed 
       to run the program`
-    * Lab1/: 
+    * Mod1/: 
       `The module of my program (per requirement).`
       * __init__.py 
         `This python file details critical functions, variables, and 
