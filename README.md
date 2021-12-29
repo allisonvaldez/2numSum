@@ -1,4 +1,4 @@
-# 605.203.Data Structures: Lab 1
+# Coding Practice: Two Number Summation
 
 This code is meant for me to practice coding interview questions with Python.
 I am supposed to write a function that takes in a non-empty
